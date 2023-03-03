@@ -1,0 +1,17 @@
+.starting__bg {
+  background: url("../img/starting__bg.png") right top 65px no-repeat;
+  height: 762px;
+  margin-top: 145px;
+}
+
+.page__title {
+  font-weight: 900;
+  font-size: 135px;
+  line-height: 100%;
+}
+
+.page__subtitle {
+  font-size: 28px;
+  padding-left: 100px;
+  line-height: 50px;
+}
