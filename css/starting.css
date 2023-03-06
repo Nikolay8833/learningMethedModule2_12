@@ -1,7 +1,10 @@
+.starting {
+  padding-top: 145px;
+}
+
 .starting__bg {
   background: url("../img/starting__bg.png") right top 65px no-repeat;
   height: 762px;
-  margin-top: 145px;
 }
 
 .page__title {

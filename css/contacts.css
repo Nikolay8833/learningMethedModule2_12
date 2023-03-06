@@ -4,8 +4,8 @@
 
 .contacts__address {
   background: url("../img/location.svg") no-repeat;
-  padding-bottom: 40px;
-  vertical-align: middle;
+  margin-bottom: 40px;
+  vertical-align: top;
 }
 .contacts__text {
   font-weight: 700;
@@ -19,17 +19,17 @@
 
 .contacts__phone {
   background: url("../img/phone.svg") no-repeat;
-  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .contacts__email {
   background: url("../img/email.svg") no-repeat;
-  padding-bottom: 40px;
+  margin-bottom: 40px;
 }
 
 .social__item {
   display: inline-block;
-  padding-right: 30px;
+  margin-right: 30px;
 } 
 
 .social__link {
